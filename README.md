@@ -5,9 +5,9 @@
 Innovative, Driven Full Stack Developer with a passion for problem solving and creation.
 
 ## Skills
-💻 HTML, CSS, JS
-⚛️ React
-🍃 MongoDB
+* 💻 HTML, CSS, JS
+* ⚛️ React
+* 🍃 MongoDB
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RNEV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/royneville/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rnevportfolio.netlify.app/)  
