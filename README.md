@@ -1,9 +1,3 @@
-### Hi there 👋
-
-I'm Roy Neville! An Innovative, Driven Full Stack Developer with a passion for problem solving and creation.
-
-[![RNEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNEV)](https://github.com/RNEV/github-readme-stats)
-
 ### Hi there 👋, my name is Roy
 #### Full Stack Developer
 ![Full Stack Developer](https://github.com/RNEV/RNEV/assets/82353436/1f810590-37e6-44c8-9646-71e121832111)
